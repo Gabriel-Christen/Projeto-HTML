@@ -1,0 +1,59 @@
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title>AVALIACAO</title>
+    <link rel="shortcut icon" href="amore.ico" type="image/x-icon">
+        <link rel="stylesheet"  type="text/css" href="loja.css">    
+	</head>
+	<body>
+        <header>
+            <nav>
+              <a class="logo" href="/">AMORE E PETS</a>
+
+              <ul class="nav-list">
+                <li><a href="home.html">HOME</a></li>
+                <li><a href="servicos.html">SERVIÇOS</a></li>
+                <li><a href="loja.html">LOJA</a></li>
+                <li><a href="localizacao.html">LOCALIZAÇÃO</a></li>
+              </ul>
+              <ul class="login">
+                <li class="login" ><a href="perfil.html"><img src="login.png"></a></li>
+              </ul>
+            </nav>
+          </header>
+          <main></main>
+        <H1>FAÇA A SUA AVALIAÇÂO, A SUA OPINIÃO É MUITO IMPORTANTE</H1>
+    <ul class="avaliacao">
+      <li class="star-icon ativo" data-avaliacao="1"></li>
+      <li class="star-icon" data-avaliacao="2"></li>
+      <li class="star-icon" data-avaliacao="3"></li>
+      <li class="star-icon" data-avaliacao="4"></li>
+      <li class="star-icon" data-avaliacao="5"></li>
+    </ul>
+    <script>
+        var stars = document.querySelectorAll('.star-icon');
+                  
+                  document.addEventListener('click', function(e){
+                    var classStar = e.target.classList;
+                    if(!classStar.contains('ativo')){
+                      stars.forEach(function(star){
+                        star.classList.remove('ativo');
+                      });
+                      classStar.add('ativo');
+                      console.log(e.target.getAttribute('data-avaliacao'));
+                    }
+                  });
+                
+    </script>
+     <div class="fim-avaliacao">
+      <form class="avaliacao" action="" method="post">
+        <textarea class="comentarioavalicao" id="comentarioavaliacao" cols="50" maxlength="200" minlength="10" placeholder="DIGITE AQUI SEU COMENTÁRIO ( OPCIONAL )"></textarea><br/>
+        <input id="bt-enviar" type="submit" value="enviar">
+        <a href="perfil.html" class="botao-sair">VOLTAR</a>
+</form>
+    </div>
+    <ul class="rodape">
+        <li><img src="CONTATO RODA PÉ.png"></li>
+    </ul>
+  </body>
+</html>

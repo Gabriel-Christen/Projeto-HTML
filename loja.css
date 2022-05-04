@@ -1,0 +1,709 @@
+div.racoes{
+  padding-bottom: 200px;
+}
+div.brinquedos{
+  padding-bottom: 200px;
+}
+div.vacinas{
+  padding-bottom: 200px;
+}
+div.text{
+  margin-left: 620px;
+  padding-top: 50px;
+}
+div.text #nome{
+  margin-right: 80px;
+}
+div.sexo{
+  padding-top: 25px;
+  margin-left: 750px;
+  padding-bottom: 50px;
+}
+div.sexo-m{
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+div.meus-pets{
+  margin-left: 780px;
+  padding-top: 50px;
+}
+div.convidar{
+  margin-left: 750px;
+  padding-top: 50px;
+}
+div.avaliacao{
+  margin-left: 775px;
+  padding-top: 50px;
+}
+div.ajuda{
+  margin-left: 800px;
+  padding-top: 50px;
+}
+div.fim-avaliacao{
+  margin-left: 750px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+div.sair{
+  margin-left: 810px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+div.sair-pets{
+  margin-left: 775px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+div.endereco{
+  text-align: center;
+  margin-left: 50px;
+}
+div.informacao{
+  padding-top: 50px;
+  margin-left: 750px;
+  justify-content: space-evenly;
+}
+div.bt-doencas{
+  padding-top: 50px;
+  margin-left:790px;
+}
+div.bt-add-pets{
+  padding-top: 50px;
+  margin-left:775px;
+}
+div.bt-voltar{
+  padding-top: 50px;
+  margin-left:830px;
+}
+div.divhome{
+  height: 20px;
+  background-color: #EF83AA;
+}
+div.divhome2{
+  margin-top: 50px;
+  height: 20px;
+  background-color: #D13fff;
+}
+div.doencas{
+  margin-left:375px;
+}
+div.radiodoencas{
+  margin-left:375px;
+  padding-bottom: 10px;
+}
+div.descreva{
+  padding-top: 10px;
+}
+div.sair-doencas{
+  padding-top: 50px;
+  margin-left: 400px;
+}
+div.ajuda{
+  padding-top: 50px;
+  margin-right: 800px;
+}
+div.coments{
+  display: flex;
+  margin-top: 50px;
+  margin-left: 200px;
+  width: 500px;
+  border: 3px solid #000;
+  border-radius: 10px;
+  background-color: #FFF;
+}
+div.footerhome{
+  background-color: #EF83AA;
+}
+ul.ajuda1{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+}
+ul.ajuda1des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+ul.ajuda2{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+}
+ul.ajuda2des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+ul.ajuda3{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+
+}
+ul.ajuda3des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+ul.ajuda4{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+
+}
+ul.ajuda4des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+ul.ajuda5{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+
+}
+ul.ajuda5des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+
+}
+ul.ajuda6{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+  
+}
+ul.ajuda6des{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+ul.ajuda1des, ul.ajuda2des, ul.ajuda3des, ul.ajuda4des, ul.ajuda5des, ul.ajuda6des{
+  display: none;
+}
+ul li ul li{
+  background: #961060;
+}
+ul.ajuda1:hover{
+  background-color: #cccc;
+}
+ul.ajuda2:hover{
+  background-color: #cccc;
+}
+ul.ajuda3:hover{
+  background-color: #cccc;
+}
+ul.ajuda4:hover{
+  background-color: #cccc;
+}
+ul.ajuda5:hover{
+  background-color: #cccc;
+}
+ul.ajuda6:hover{
+  background-color: #cccc;
+}
+ul.doencas{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 160px;
+}
+ul.produtos{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+ul.comentarios{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 0px;
+}
+ul.brinquedos{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+ul.animais{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 100px;
+}
+ul.acessorio{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+ul.vacinas{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
+ul.amigo{
+  list-style: none;
+  display: flex;
+  justify-content: 300px;
+  margin-left: 700px;
+  padding-top: 100px;
+}
+ul.login{
+  list-style: none;
+  display: flex;
+  justify-content: 300px;
+  margin-left: 700px;
+}
+ul.perfil{
+  list-style: none;
+  display: flex;
+  justify-content: 300px;
+  margin-left: 700px;
+  padding-top: 50px;
+}
+ul.home{
+  list-style: none;
+  display: flex;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  justify-content: space-around;
+}
+ul.rodape{
+  list-style: none;
+  display: flex;
+  padding-top:150px ;
+}
+ul.avaliacao{
+  display: flex;
+  margin-left: 575px;
+  padding-top: 200px;
+  padding-bottom: 50PX;
+ }
+ul.bt-finalizar{
+  margin-left: 725px;
+  list-style: none;
+  display: flex;
+  padding-top:50px ;
+}
+li.star-icon{
+  list-style-type: none;
+  border: 1px solid #fff;
+  cursor: pointer;
+  color: #ffe500;
+  font-size: 150px;/* alterar o tamanho das estrelas */
+}
+li.star-icon::before{
+  content: "\2605";
+}
+li.star-icon.ativo ~ .star-icon::before{
+  content: "\2606";
+}
+ul.avaliacao:hover .star-icon::before{
+  content: "\2605";
+}
+li.star-icon:hover ~ .star-icon::before{
+  content: "\2606";
+}
+li.convidar-amigos, li.addpets, li.add2pets, li.criarperfil, li.cadastrado, li.comoajudar{
+  color: #FFF;
+  text-align: justify;
+}
+* {
+    margin: 0;
+  }
+  a.botao-pronto{
+    margin-right: 50px;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  a:hover {
+    opacity: 0.7;
+  }
+  
+  .logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #EF83AA;
+    height: 8vh;
+  }
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+      float: left;
+    letter-spacing: 3px;
+    margin-left: 32px;
+  }
+  
+  
+  @media (max-width: 999px) {
+    body {
+      overflow-x: hidden;
+    }
+    .nav-list {
+      position: absolute;
+      top: 8vh;
+      right: 0;
+      width: 50vw;
+      height: 92vh;
+      background: #23232e;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      transform: translateX(100%);
+      transition: transform 0.3s ease-in;
+    }
+    .nav-list li {
+      margin-left: 0;
+      opacity: 0;
+    }
+    .mobile-menu {
+      display: block;
+    }
+  }
+  
+.nav-list.active {
+    transform: translateX(0);
+}
+  
+@keyframes navLinkFade {
+from{
+      opacity: 0;
+      transform: translateX(50px);
+}
+to {
+  opacity: 1;
+  transform: translateX(0);
+}
+}
+  
+.mobile-menu.active .line1 {
+    transform: rotate(-45deg) translate(-8px, 8px);
+}
+  
+.mobile-menu.active .line2 {
+    opacity: 0;
+}
+  
+.mobile-menu.active .line3 {
+    transform: rotate(45deg) translate(-5px, -7px);
+}
+figcaption{
+  text-align: center;
+  color: #000;
+}
+h1{
+  text-align: center;
+  padding-top: 50px;
+  color: #12358E;
+}
+h1.meus-pets{
+  margin-left: 100px;
+}
+h1.pet{
+  color: #000;
+  margin-left: 50px;
+}
+h1.informacoes{
+  margin-left: 750px;
+  text-align: left;
+  color: #12358E;
+}
+h1.mapaclient{
+  margin-left: 0px;
+  color: #000;
+}
+h1.coments{
+  margin-left: 200px;
+  text-align: initial;
+  padding-top: 50px;
+  color: #000;
+}
+h1.loja{
+  text-align: center;
+  padding-top: 50px;
+  color: #000;
+}
+h2.racoes{
+  margin-left: 100px;
+  padding-top: 200px;
+}
+h2.brinquedos{
+  margin-left: 100px;
+}
+h2.acessorio{
+  margin-left: 100px;
+}
+h2.vacinas{
+  padding-top: 200px;
+  margin-left: 100px;
+}
+h3.nome{
+  border: 1px solid #000;
+  margin-left: 130px;
+}
+h3.doencas{
+  padding-top: 10px;
+  margin-left: 350px;
+  padding-bottom: 50px;
+}
+h3.nome-comentario{
+  float: left;
+  padding-right: 310px;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+h4.coment{
+  padding-bottom: 30px;
+}
+h4.dtnasc{
+  margin-left: 250px;
+}
+h4.dtdoenca{
+  padding-top: 50px;
+  padding-bottom: 10px;
+  margin-left: 250px;
+}
+input.descricaodoenca{
+  width: 210px;
+}
+input.datanasc{
+  margin-left: 200px;
+}
+input.nome{
+  margin-top: 10px;
+  margin-left: 125px;
+}
+input#bt-enviar{
+  background-color: #D13693;
+  height: 47px;
+  width: 150px;
+  border-radius: 5px;
+  color: #fff;
+}
+a.botao-pronto{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-pets{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-amigos{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-avaliacao{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-ajuda{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-sair{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.botao-finalizar{
+  background: linear-gradient(to right, #D13693, #D13693);
+  text-shadow: 1px 1px 0 #000000;
+  border-radius: 5px;
+  border-color: #D13693;
+  *color: #FFF;
+  margin-top: 100px;
+  text-decoration: none;
+  margin-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a.cadastrar-outro-amigo{
+  padding-top: 100px;
+  margin-left: 850px;
+  color: #000;
+}
+img.gato{
+  border: 4px solid #000;
+  border-radius: 15px;
+}
+img.cachorro{
+  border: 4px solid #000;
+  border-radius: 15px;
+}
+img.perfil{
+  border: 4px solid #000;
+  margin-left: 125px;
+  border-radius: 15px;
+}
+li.login{
+  float: inline-end;
+}
+iframe.mapa{
+  padding-top: 50px;
+  margin-left: 650px;
+  border: 4px solid;
+  padding-bottom: 100px;
+}
+  iframe.mapaclient{
+  margin-left: 650px;
+}
+form.searchbar{
+    padding: 0.3em;
+    margin-left: 1650px;
+}
+form.avaliacao{
+  margin-right: 500px;
+}
+textarea.comentarioavalicao{
+  margin-bottom: 100px;
+}
